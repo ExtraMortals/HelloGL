@@ -1,0 +1,9 @@
+{
+    "cmake.configureSettings": {
+        "CMAKE_TOOLCHAIN_FILE":"C:\\Users\\jychoi\\vcpkg\\scripts\\buildsystems\\vcpkg.cmake"
+    },
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools"
+}
